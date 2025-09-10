@@ -1,0 +1,30 @@
+JavaScript Fundamentals Task
+Objective:
+Practice the basics of variables, data types, objects, arrays, and arithmetic operators in JavaScript.
+Task Instructions: 
+1. Variables & Data Types
+Create variables to store:
+Your name (string)
+Your age (number)
+Whether you are a student or not (boolean)
+2. Arithmetic Operators
+Create two number variables, e.g. x = 20 and y = 5.
+Use arithmetic operators (+, -, *, /, %) to calculate:
+Sum of x and y
+Difference between x and y
+Product of x and y
+Quotient of x divided by y
+Remainder of x divided by y
+3. Array
+Create an array with at least 5 favorite fruits.
+Print the first and last fruit from the array.
+Add a new fruit to the array using .push().
+Remove the first fruit using .shift().
+4. Object
+Create an object called student with the following properties:
+name (string)
+age (number)
+grade (string, e.g., "A")
+subjects (array of subjects like ["Math", "Science"])
+Print the student's name and grade.
+Add a new property called isGraduated (boolean).

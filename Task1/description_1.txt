@@ -1,0 +1,7 @@
+Task: Student Information Card by JavaScript
+1. Create variables to store:
+Student’s name
+Student’s age
+Student’s grade
+2. Print these variables using console.log() with a sentence like:
+"The student Ali is 20 years old and in grade 12."

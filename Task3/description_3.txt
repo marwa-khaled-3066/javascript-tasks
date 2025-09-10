@@ -1,0 +1,30 @@
+Task Simple Online Shop
+🔹 Requirements
+1. Create three product objects
+Each product should have
+name (string)
+price (number)
+inStock (boolean)
+category (string → electronics, clothes, food)
+2. Create an array cart that contains these three products.
+3. Arithmetic operators
+Add the prices of the three products to calculate the total.
+If the total price is greater than 100, apply a 10% discount.
+Show the final price after discount.
+4. Comparison operators
+For each product, check if it is in stock or not, and print a message.
+5. Logical operators
+For each product, print a message if
+It is in stock and price is less than 50.
+It is in stock or its price is less than 25.
+6. Conditional statements (if, else if, else)
+Print budget category based on the final price
+Low budget if less than 50.
+Medium budget if between 50 and 100.
+High budget if above 100.
+7. Switch statement
+For each product, check its category and print a message
+Take care of warranty! if electronics.
+Check size before buying! if clothes.
+Consume before expiry! if food.
+Unknown category otherwise.
