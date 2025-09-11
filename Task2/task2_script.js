@@ -31,7 +31,7 @@ document.write("Student grade: " + student.grade +"<br>");
 const myArray = Object.values(student);
 // Stringify the Array
 let text = myArray.toString();
-document.write(text);
+document.write("Student object: " + text + "<br>");
 
 Object.defineProperty(student, "isGraduated", {value: false});
 document.write("Student graduatation status: " + student.isGraduated +"<br>");
